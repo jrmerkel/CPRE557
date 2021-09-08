@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/myScenes/Scene002_hw2_template.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
